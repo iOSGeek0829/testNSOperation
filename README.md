@@ -1,0 +1,2 @@
+# testNSOperation
+自己在学习NSOperation时编写的一点测试代码
